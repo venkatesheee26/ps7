@@ -1,0 +1,8 @@
+D:\ps\ps7\ps7\ps7\bin\Debug\ps7.exe.config
+D:\ps\ps7\ps7\ps7\bin\Debug\ps7.exe
+D:\ps\ps7\ps7\ps7\bin\Debug\ps7.pdb
+D:\ps\ps7\ps7\ps7\obj\Debug\ps7.csproj.AssemblyReference.cache
+D:\ps\ps7\ps7\ps7\obj\Debug\ps7.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps7\ps7\ps7\obj\Debug\ps7.csproj.CoreCompileInputs.cache
+D:\ps\ps7\ps7\ps7\obj\Debug\ps7.exe
+D:\ps\ps7\ps7\ps7\obj\Debug\ps7.pdb
